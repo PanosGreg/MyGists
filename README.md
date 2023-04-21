@@ -1,6 +1,6 @@
 # MyGists
 
-Individual functions from my GitHub Gists
+Individual functions from my [GitHub Gists](https://gist.github.com/PanosGreg)
 
 ## Overview
 When someone clicks on my profile, he can see the repos which are usually complete PowerShell modules.  
