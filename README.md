@@ -5,7 +5,7 @@ Individual functions from my GitHub Gists
 ## Overview
 When someone clicks on my profile, he can see the repos which are usually complete PowerShell modules.  
 But I also have a few individual functions outside of modules, which are found in my GitHub Gists.  
-Since a user's Gists are not directly shown, and are somewhat hidden, I've created this repo with links to those functions.
+Since a user's Gists are not directly shown, and are somewhat hidden, I've created this repo with links to those functions for visibility.
 
 ## Gists
 
